@@ -18,7 +18,6 @@ struct RecordDetailView: View {
                         .font(.title2)
                         .bold()
                     Text("手術名: \(record.surgeryName)")
-                    Text("診療科: \(record.department)")
                     Text("主治医: \(record.primaryDoctor)")
                     Text("入院日: \(record.admissionDate, style: .date)")
                 }
@@ -33,6 +32,10 @@ struct RecordDetailView: View {
                     Text("助手: \(record.assistant)")
                     Text("麻酔法: \(record.anesthesiaMethod)")
                     Text("バイタル変化: \(record.vitalChanges)")
+                    Text("麻酔科医: \(record.anesthesiologist)")
+                    Text("輸液量: \(record.infusionVolume)")
+                    Text("出血量: \(record.bloodLoss)")
+                    Text("尿量: \(record.urineOutput)")
                 }
 
                 Divider()
@@ -42,6 +45,14 @@ struct RecordDetailView: View {
                 Text(record.procedureDetails)
 
                 Text("合併症と対応: \(record.complications) / \(record.responses)")
+
+                Divider()
+
+                Group {
+                    Text("手術まとめ")
+                        .font(.headline)
+                    Text(record.summary)
+                }
 
                 Divider()
 
