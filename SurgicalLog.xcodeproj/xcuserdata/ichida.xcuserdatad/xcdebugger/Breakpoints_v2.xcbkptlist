@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "309DE5B9-F612-49ED-BFE0-EC76A53DCE17"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B869DFC1-D966-4BE6-9161-CFF9DC5878A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../../../../var/folders/q1/s3nml7014tzb8k98pptbgnfw0000gn/T/swift-generated-sources/@__swiftmacro_11SurgicalLog8HomeViewV5items33_5FD51AD75136D618A8128A33DDBCC0FELL5QueryfMp_.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1">
+            <Locations>
+               <Location
+                  uuid = "B869DFC1-D966-4BE6-9161-CFF9DC5878A2 - ac5a0a7e84a244b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SurgicalLog.HomeView.init() -&gt; SurgicalLog.HomeView"
+                  moduleName = "SurgicalLog.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/q1/s3nml7014tzb8k98pptbgnfw0000gn/T/-6887e1.@__swiftmacro_11SurgicalLog8HomeViewV5items33_5FD51AD75136D618A8128A33DDBCC0FELL5QueryfMp_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1"
+                  endingLineNumber = "1">
+               </Location>
+               <Location
+                  uuid = "B869DFC1-D966-4BE6-9161-CFF9DC5878A2 - 4e8dca45dbea9a5d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 0 of SurgicalLog.HomeView.init(_items: _SwiftData_SwiftUI.Query&lt;SurgicalLog.SurgicalRecord, Swift.Array&lt;SurgicalLog.SurgicalRecord&gt;&gt;) -&gt; SurgicalLog.HomeView"
+                  moduleName = "SurgicalLog.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///var/folders/q1/s3nml7014tzb8k98pptbgnfw0000gn/T/-6887e1.@__swiftmacro_11SurgicalLog8HomeViewV5items33_5FD51AD75136D618A8128A33DDBCC0FELL5QueryfMp_.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "1"
+                  endingLineNumber = "1">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
