@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		60C3D8522E8D4D7A00491012 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 60C3D8512E8D4D7A00491012 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		6039D1A22E27BB0D0095E24C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		6039D1902E27BB0C0095E24C /* SurgicalLog.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SurgicalLog.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6039D1A12E27BB0D0095E24C /* SurgicalLogTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SurgicalLogTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6039D1AB2E27BB0D0095E24C /* SurgicalLogUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SurgicalLogUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		60C3D8512E8D4D7A00491012 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -88,6 +93,7 @@
 		6039D1872E27BB0C0095E24C = {
 			isa = PBXGroup;
 			children = (
+				60C3D8512E8D4D7A00491012 /* README.md */,
 				6039D1922E27BB0C0095E24C /* SurgicalLog */,
 				6039D1A42E27BB0D0095E24C /* SurgicalLogTests */,
 				6039D1AE2E27BB0D0095E24C /* SurgicalLogUITests */,
@@ -225,6 +231,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				60C3D8522E8D4D7A00491012 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
